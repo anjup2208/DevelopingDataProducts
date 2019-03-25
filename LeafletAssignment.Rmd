@@ -2,7 +2,9 @@
 title: "Developing Data Products - Maps"
 author: "Anju Mandal"
 date: "March 25, 2019"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ### Some Hertiage sites in India 
